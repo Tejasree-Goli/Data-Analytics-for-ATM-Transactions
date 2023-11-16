@@ -4,4 +4,4 @@ This case study focuses on Wisabi Bank, aiming to conduct an in-depth analysis o
 
 The details for this project are taken from the Youtube Channel: @Wisabi Analytics
 
-Owing to limitations in dashboard size and challenges encountered while integrating my GitHub repository with the Power BI application, regrettably, I am unable to share the dashboard directly within this space. Nonetheless, the attached report (.pptx), systematically provides a thorough analysis derived from the dashboard. This report is further enhanced with screenshots that show various dashboard page views, giving a complete picture of the insights obtained.
+Owing to limitations in dashboard size and challenges encountered while integrating my GitHub repository with the Power BI application, I am unable to share the dashboard directly within this space. Nonetheless, the attached report (.pptx), systematically provides a thorough analysis derived from the dashboard. This report is further enhanced with screenshots that show various dashboard page views, giving a complete picture of the insights obtained.
